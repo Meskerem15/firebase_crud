@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "727292341788",
+    "project_id": "fir-crud-e375b",
+    "storage_bucket": "fir-crud-e375b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727292341788:android:5e05109a082cd0e39339d9",
+        "android_client_info": {
+          "package_name": "com.example.firebase_crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0icBP2omvLj65iGZjLU7fy9xTB9U-uRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
